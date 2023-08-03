@@ -1,0 +1,56 @@
+.logo {
+  width: 20px;
+  height: 20px;
+}
+.flexdisplay {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.home-page a{
+  margin-inline: 10px;
+}
+.home-page
+{
+  padding: 13px;
+  background-color: aliceblue;
+}
+
+.card {
+  margin: 44px;
+}
+.card-body {
+  background-color: burlywood;
+}
+.dd {
+  display: flex;
+  border: 1px solid violet;
+  width: 80%;
+  margin: auto;
+  
+}
+.hh {
+  margin-left: 77%;
+}
+.productheader {
+  display: inline;
+  
+}
+.yy {
+  margin-left: 200px;
+}
+.text {
+  display: flex;
+}
+.head
+{
+  background-color: antiquewhite;
+  text-align: center;
+}
+a
+{
+  margin-left: 40px;
+  
+}
+

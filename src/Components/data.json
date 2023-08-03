@@ -1,0 +1,676 @@
+[
+    {
+        "id": 1,
+        "name": "Chai Point",
+        "description": "South Indian, North IndianGachibowli2.0 km",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/p4znxkstyrdobxwl6rxa",
+        "dishes": [
+            {
+                "iname": "Idly",
+                "Price": 60,
+                "Quantity": "4 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rrzqzfe7eatlsjf4zv0r",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Plain Dosa",
+                "Price": 60,
+                "Quantity": "4 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/c3hwbipdzuhsyq6hg2zk",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Poori 3 Pcs With Aloo Curry",
+                "Price": 90,
+                "Quantity": "3 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/glqmovjn0rojdzraocbs",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "McSpicy Chicken Wings",
+                "Price": 80,
+                "Quantity": "2 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/39fd2262c980d33a02e3c77234783613",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Chicken Maharaja Mac",
+                "Price": 244.7,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/106e6e88e435a05c69e170534dc7f5e6",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "McSaver Chicken Maharaja Mac Meal",
+                "Price": 388.9,
+                "Quantity": "3 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/254a25b954da9044b7a3e11819b74e4e",
+                "count": 0,
+                "veg": "false"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Burger King",
+        "description": "Bakery, ItalianGachibowli2.5 km",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ee5f8e06b300efc07c9fe3f4df40dfc4",
+        "dishes": [
+            {
+                "iname": "McSpicy Chicken Wings",
+                "Price": 80,
+                "Quantity": "2 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/39fd2262c980d33a02e3c77234783613",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Chicken Maharaja Mac",
+                "Price": 244.7,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/106e6e88e435a05c69e170534dc7f5e6",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "McSaver Chicken Maharaja Mac Meal",
+                "Price": 388.9,
+                "Quantity": "3 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/254a25b954da9044b7a3e11819b74e4e",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Idly",
+                "Price": 60,
+                "Quantity": "4 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rrzqzfe7eatlsjf4zv0r",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Plain Dosa",
+                "Price": 60,
+                "Quantity": "4 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/c3hwbipdzuhsyq6hg2zk",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Poori 3 Pcs With Aloo Curry",
+                "Price": 90,
+                "Quantity": "3 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/glqmovjn0rojdzraocbs",
+                "count": 0,
+                "veg": "true"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Biriyani House",
+        "description": "Chinese, Healthy FoodKohtaguda3.7 km",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/owtlzv1tm43rx8qfvqpw",
+        "dishes": [
+            {
+                "iname": "Chicken Biryani Single",
+                "Price": 140,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/n2yzujpjggkwy4fdemox",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Mutton Biryani Single",
+                "Price": 160,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/id0rvuujb9dcxs4kurxn",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Fish Biryani",
+                "Price": 320,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yngi7upjngumc16rrjn6",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Veg Classic Meal",
+                "Price": 235,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bf9fa075064f176605d321c81b989153",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "DIY Signature Non-Veg Meal with Wrap, Beverage and Side",
+                "Price": 369,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7f27b66f73a34ad768e3e0de5d9ab9ae",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "2 Signature Non-Veg Wraps at 210 each",
+                "Price": 420,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ca37357143403cf913409960ade15932",
+                "count": 0,
+                "veg": "false"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Paratha Box - Desi Punjabi Meals",
+        "description": "North Indian, Fast FoodParatha Box - DesiPunjabi MealsNorth Indian, Fast FoodKohtaguda3.7 km",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/bde8bfbd9092b770b4b6fb05232f51e1",
+        "dishes": [
+            {
+                "iname": "Veg Classic Meal",
+                "Price": 235,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bf9fa075064f176605d321c81b989153",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "DIY Signature Non-Veg Meal with Wrap, Beverage and Side",
+                "Price": 369,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7f27b66f73a34ad768e3e0de5d9ab9ae",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "2 Signature Non-Veg Wraps at 210 each",
+                "Price": 420,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ca37357143403cf913409960ade15932",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Chicken Biryani Single",
+                "Price": 140,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/n2yzujpjggkwy4fdemox",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Mutton Biryani Single",
+                "Price": 160,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/id0rvuujb9dcxs4kurxn",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Fish Biryani",
+                "Price": 320,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yngi7upjngumc16rrjn6",
+                "count": 0,
+                "veg": "false"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Subway",
+        "description": "Salads, SnackSkyview2.7 km",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/1ace5fa65eff3e1223feb696c956b38b",
+        "dishes": [
+            {
+                "iname": "Aloo Patty Sandwich",
+                "Price": 265,
+                "Quantity": "1 Pc",
+                "desc": "Serves 1 | Aloo patty seasoned with special herbs and spices, paired with your choice of your favourite nutritious veggies, on a freshly baked bread.",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ttoydnlmxjmsy4bnxptn",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Italian Bmt Sandwich",
+                "Price": 300,
+                "Quantity": "1 Pc",
+                "desc": "Serves 1 | Protein-enriched classic italian b.m.t. sub with a mix of tasty pepperoni, smoked chicken slice and lamb salami, topped with your fav sauce to deliver a flavour burst that is served in your choice of freshly baked bread.",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/lsq20yevnkxuoripkq5z",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Corn & Peas Salad",
+                "Price": 278,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/tummkh3izaotrutlavn5",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Chicken Biryani Single",
+                "Price": 140,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/n2yzujpjggkwy4fdemox",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Mutton Biryani Single",
+                "Price": 160,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/id0rvuujb9dcxs4kurxn",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Fish Biryani",
+                "Price": 320,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yngi7upjngumc16rrjn6",
+                "count": 0,
+                "veg": "false"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "The Belgian Waffle Co.",
+        "description": "Waffle, Desserts Manikonda Rd3.0 km",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/mhxngzk8zrxkfc6zysb5",
+        "dishes": [
+            {
+                "iname": "McSpicy Chicken Wings",
+                "Price": 80,
+                "Quantity": "2 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/39fd2262c980d33a02e3c77234783613",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Chicken Maharaja Mac",
+                "Price": 244.7,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/106e6e88e435a05c69e170534dc7f5e6",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "McSaver Chicken Maharaja Mac Meal",
+                "Price": 388.9,
+                "Quantity": "3 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/254a25b954da9044b7a3e11819b74e4e",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Idly",
+                "Price": 60,
+                "Quantity": "4 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/rrzqzfe7eatlsjf4zv0r",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Plain Dosa",
+                "Price": 60,
+                "Quantity": "4 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/c3hwbipdzuhsyq6hg2zk",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Poori 3 Pcs With Aloo Curry",
+                "Price": 90,
+                "Quantity": "3 Pcs",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/glqmovjn0rojdzraocbs",
+                "count": 0,
+                "veg": "true"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "KFC",
+        "description": "Burgers, BiryaniTolichowki3.9 km",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/e33e1d3ba7d6b2bb0d45e1001b731fcf",
+        "dishes": [
+            {
+                "iname": "Veg Classic Meal",
+                "Price": 235,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bf9fa075064f176605d321c81b989153",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "DIY Signature Non-Veg Meal with Wrap, Beverage and Side",
+                "Price": 369,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7f27b66f73a34ad768e3e0de5d9ab9ae",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "2 Signature Non-Veg Wraps at 210 each",
+                "Price": 420,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ca37357143403cf913409960ade15932",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Chicken Biryani Single",
+                "Price": 140,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/n2yzujpjggkwy4fdemox",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Mutton Biryani Single",
+                "Price": 160,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/id0rvuujb9dcxs4kurxn",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Fish Biryani",
+                "Price": 320,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yngi7upjngumc16rrjn6",
+                "count": 0,
+                "veg": "false"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Dominos pizza",
+        "description": "Pizzas, ItalianSecretariat Colony",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/gpjyzajdxpjpg0tiapeg",
+        "dishes": [
+            {
+                "iname": "Aloo Patty Sandwich",
+                "Price": 265,
+                "Quantity": "1 Pc",
+                "desc": "Serves 1 | Aloo patty seasoned with special herbs and spices, paired with your choice of your favourite nutritious veggies, on a freshly baked bread.",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ttoydnlmxjmsy4bnxptn",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Italian Bmt Sandwich",
+                "Price": 300,
+                "Quantity": "1 Pc",
+                "desc": "Serves 1 | Protein-enriched classic italian b.m.t. sub with a mix of tasty pepperoni, smoked chicken slice and lamb salami, topped with your fav sauce to deliver a flavour burst that is served in your choice of freshly baked bread.",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/lsq20yevnkxuoripkq5z",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Corn & Peas Salad",
+                "Price": 278,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/tummkh3izaotrutlavn5",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Chicken Biryani Single",
+                "Price": 140,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/n2yzujpjggkwy4fdemox",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Mutton Biryani Single",
+                "Price": 160,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/id0rvuujb9dcxs4kurxn",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Fish Biryani",
+                "Price": 320,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yngi7upjngumc16rrjn6",
+                "count": 0,
+                "veg": "false"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Shah Ghouse Hotel & Restaurant",
+        "description": "Biryani, North IndianHitec City2.7 km",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/hnx9nazpxdpqpypjo8ld",
+        "dishes": [
+            {
+                "iname": "Veg Classic Meal",
+                "Price": 235,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bf9fa075064f176605d321c81b989153",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "DIY Signature Non-Veg Meal with Wrap, Beverage and Side",
+                "Price": 369,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7f27b66f73a34ad768e3e0de5d9ab9ae",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "2 Signature Non-Veg Wraps at 210 each",
+                "Price": 420,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ca37357143403cf913409960ade15932",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Chicken Biryani Single",
+                "Price": 140,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/n2yzujpjggkwy4fdemox",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Mutton Biryani Single",
+                "Price": 160,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/id0rvuujb9dcxs4kurxn",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Fish Biryani",
+                "Price": 320,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yngi7upjngumc16rrjn6",
+                "count": 0,
+                "veg": "false"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Millet Express",
+        "description": "Healthy Food, South IndianSri Ramnagar Block 5.0 km",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/f89f83a650ad14380ffa50fccd9e2ac3",
+        "dishes": [
+            {
+                "iname": "Aloo Patty Sandwich",
+                "Price": 265,
+                "Quantity": "1 Pc",
+                "desc": "Serves 1 | Aloo patty seasoned with special herbs and spices, paired with your choice of your favourite nutritious veggies, on a freshly baked bread.",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ttoydnlmxjmsy4bnxptn",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Italian Bmt Sandwich",
+                "Price": 300,
+                "Quantity": "1 Pc",
+                "desc": "Serves 1 | Protein-enriched classic italian b.m.t. sub with a mix of tasty pepperoni, smoked chicken slice and lamb salami, topped with your fav sauce to deliver a flavour burst that is served in your choice of freshly baked bread.",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/lsq20yevnkxuoripkq5z",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Corn & Peas Salad",
+                "Price": 278,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/tummkh3izaotrutlavn5",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "Chicken Biryani Single",
+                "Price": 140,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/n2yzujpjggkwy4fdemox",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Mutton Biryani Single",
+                "Price": 160,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/id0rvuujb9dcxs4kurxn",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Fish Biryani",
+                "Price": 320,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yngi7upjngumc16rrjn6",
+                "count": 0,
+                "veg": "false"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Paratha Box - Desi Punjabi Meals",
+        "description": "North Indian, Fast FoodParatha Box - DesiPunjabi MealsNorth Indian, Fast FoodKohtaguda3.7 km",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/bde8bfbd9092b770b4b6fb05232f51e1",
+        "dishes": [
+            {
+                "iname": "Veg Classic Meal",
+                "Price": 235,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/bf9fa075064f176605d321c81b989153",
+                "count": 0,
+                "veg": "true"
+            },
+            {
+                "iname": "DIY Signature Non-Veg Meal with Wrap, Beverage and Side",
+                "Price": 369,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/7f27b66f73a34ad768e3e0de5d9ab9ae",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "2 Signature Non-Veg Wraps at 210 each",
+                "Price": 420,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/ca37357143403cf913409960ade15932",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Chicken Biryani Single",
+                "Price": 140,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/n2yzujpjggkwy4fdemox",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Mutton Biryani Single",
+                "Price": 160,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/id0rvuujb9dcxs4kurxn",
+                "count": 0,
+                "veg": "false"
+            },
+            {
+                "iname": "Fish Biryani",
+                "Price": 320,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yngi7upjngumc16rrjn6",
+                "count": 0,
+                "veg": "false"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "ITC Kohenur - Flavours",
+        "description": "ITC Kohenur - FlavoursIndian, EuropeanHitec City3.5 km",
+        "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/ahjlbfilkzeuv7koo9dk",
+        "dishes": [
+            {
+                "iname": "Aloo Patty Sandwich",
+                "Price": 265,
+                "Quantity": "1 Pc",
+                "desc": "Serves 1 | Aloo patty seasoned with special herbs and spices, paired with your choice of your favourite nutritious veggies, on a freshly baked bread.",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ttoydnlmxjmsy4bnxptn",
+                "count": 0
+            },
+            {
+                "iname": "Italian Bmt Sandwich",
+                "Price": 300,
+                "Quantity": "1 Pc",
+                "desc": "Serves 1 | Protein-enriched classic italian b.m.t. sub with a mix of tasty pepperoni, smoked chicken slice and lamb salami, topped with your fav sauce to deliver a flavour burst that is served in your choice of freshly baked bread.",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/lsq20yevnkxuoripkq5z",
+                "count": 0
+            },
+            {
+                "iname": "Corn & Peas Salad",
+                "Price": 278,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/tummkh3izaotrutlavn5",
+                "count": 0
+            },
+            {
+                "iname": "Chicken Biryani Single",
+                "Price": 140,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/n2yzujpjggkwy4fdemox",
+                "count": 0
+            },
+            {
+                "iname": "Mutton Biryani Single",
+                "Price": 160,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/id0rvuujb9dcxs4kurxn",
+                "count": 0
+            },
+            {
+                "iname": "Fish Biryani",
+                "Price": 320,
+                "Quantity": "1 Pc",
+                "im": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/yngi7upjngumc16rrjn6",
+                "count": 0
+            }
+        ]
+    }
+]
